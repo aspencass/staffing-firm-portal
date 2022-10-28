@@ -29,6 +29,7 @@ import uec from '../assets/logos/uec.png';
 import map_footer from '../assets/map_footer.jpeg';
 
 
+
 export default function Home () {
 
     const history = useHistory();

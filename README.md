@@ -1,4 +1,4 @@
-# README STAFFING FIRM REMAKE
+# README : STAFFING FIRM REMAKE
 
 This project recreated (and revamped) a local Staffing Firm app, Excel Personnel. 
 

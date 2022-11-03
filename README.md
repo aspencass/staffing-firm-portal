@@ -1,4 +1,4 @@
-# README
+# README STAFFING FIRM REMAKE
 
 This project recreated (and revamped) a local Staffing Firm app, Excel Personnel. 
 
@@ -21,7 +21,7 @@ My partner, @nesskodo, and I created this wireframe usinng staffing sites we lik
 
 Final Product : 
 
-https://media.giphy.com/media/SyjYQhZcr6lzpHzQyg/giphy.gif
+https://youtu.be/A1-NfRG6_3w
 
 
 

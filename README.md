@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project recreated (and revamped) a local Staffing Firm app, Excel Personnel. 
 
-Things you may want to cover:
+It was built and deployed a backend API with complete CRUD action capabilities with authentication implementation. 
+I used this opportunity to research and integrate Flowbite Tailwind CSS. 
 
-* Ruby version
+User Stories :
 
-* System dependencies
+- users can login/logout
+- browse job opportunities
+- favorite jobs
+- and apply to jobs
+- users can also upload a resume and schedule an interview. 
 
-* Configuration
+Wireframe :
 
-* Database creation
+My partner, @nesskodo, and I created this wireframe usinng staffing sites we like the flow and feel of. We set out to create an app that was more contemporary than the current site functionality and aestheitc. 
 
-* Database initialization
+<img width="852" alt="Screen Shot 2022-11-02 at 11 31 32 PM" src="https://user-images.githubusercontent.com/109185681/199653552-c04d3b1f-d587-45db-9a56-872d4a86746c.png">
 
-* How to run the test suite
+Final Product : 
 
-* Services (job queues, cache servers, search engines, etc.)
+https://media.giphy.com/media/SyjYQhZcr6lzpHzQyg/giphy.gif
 
-* Deployment instructions
 
-* ...
+

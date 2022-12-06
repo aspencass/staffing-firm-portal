@@ -1,9 +1,6 @@
 # README : STAFFING FIRM REMAKE
 
-This project recreated (and revamped) a local Staffing Firm app, Excel Personnel. 
-
-It was built and deployed a backend API with complete CRUD action capabilities with authentication implementation. 
-I used this opportunity to research and integrate Flowbite Tailwind CSS. 
+This project recreated (and revamped) a local Staffing Firm app, Excel Personnel. It was built and deployed a backend API with complete CRUD action capabilities with authentication implementation. I used this opportunity to research and integrate Flowbite Tailwind CSS. 
 
 User Stories :
 

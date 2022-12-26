@@ -1,5 +1,5 @@
 # README : STAFFING FIRM REMAKE
-Recreated (and revamped) a local Staffing Firm app, Excel Personnel. It was built and deployed a backend API with complete CRUD action capabilities with authentication implementation. I used this opportunity to research and integrate Flowbite Tailwind CSS. 
+Recreated (and revamped) a local Staffing Firm app, Excel Personnel. It was built with complete CRUD action capabilities with authentication implementation. I used this opportunity to research and integrate Flowbite Tailwind CSS. 
 
 LOOM 
 https://www.loom.com/share/c0de7a6b75014e968917c86ee52e0bc0
